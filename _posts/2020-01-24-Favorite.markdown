@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Favourite activities?"
+---
+
+# These are my favourite activities from  https://gist.github.com/fool/b0f254ff8c72a5765b6a9138249789d6
+
+
+- Respond to 50+ support requests via email or chat most days.
+
+- Spot trends across many cases to improve Netlify's product and service.
+
+- Suggest and champion improvements to the Support team's workflow to your colleagues in and out of Support.
+
+- Work with the development team to help design a new feature based on feedback from customers.
+
+- Work with people to figure out if Netlify's service can solve a particular workflow or integration challenge they have.  
+
+[Back to home page](https://practical-galileo-423fde.netlify.com/)
+

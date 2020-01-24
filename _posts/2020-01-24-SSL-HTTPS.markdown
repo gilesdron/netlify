@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Why is SSL/HTTPS important?"
+---
+
+HTTPS is important for server-client communication, SEO, PCI/DSS Saq certification, and customer confidence in your identity and that their data transmission is secure.  
+
+[Back to home page](https://practical-galileo-423fde.netlify.com/)
